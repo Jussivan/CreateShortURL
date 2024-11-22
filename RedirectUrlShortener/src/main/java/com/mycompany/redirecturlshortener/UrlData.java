@@ -1,4 +1,4 @@
-package com.mycompany.createshorturl;
+package com.mycompany.redirecturlshortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
